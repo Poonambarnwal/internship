@@ -1,0 +1,2 @@
+# internship
+javascripts questions
